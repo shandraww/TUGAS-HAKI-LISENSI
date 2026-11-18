@@ -1,7 +1,7 @@
 # TUGAS-HAKI-LISENSI
 belajar membuat lisensi dan readme aplikasi.
 
-A. Identitas Produk Perangkat Lunak
+<h1 align="center">A. Identitas Produk Perangkat Lunak</h1>
 1. Nama Aplikasi / Software: Saung Sambal Mobile (Saung Sambal Mobile)
 2. Kategori Produk: Aplikasi Pemesanan Berbasis Android
 3. Deskripsi Singkat Fungsi Aplikasi:
